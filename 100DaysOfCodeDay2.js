@@ -1,6 +1,8 @@
 //Creating a new element in Javascript...adding a paragraph
 //Web page
 
+
+//Day 3
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -11,7 +13,9 @@
     
 
     <body>
-        <div id = "main"> //anything can actually go into div id section, say second, etc
+            {/* anything can actually go into div id section, say second, etc */}
+        <div id = "main"> 
+        
             <h2>CODING</h2>
                 <p>Learning how to code could be really interesting and annonying</p>
                 <p>However, it is profiting on the long run.</p> 
